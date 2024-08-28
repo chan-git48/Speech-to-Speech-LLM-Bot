@@ -7,7 +7,7 @@ import time
 
 # Initialize the recognizer and OpenAI API key
 recognizer = sr.Recognizer()
-openai.api_key = 'your-openai-api-key'
+openai.api_key = '123******890'
 
 # Function to capture video and audio input
 def capture_audio():
